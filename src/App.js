@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
-
+import Assi from './assign.js';
 function App() {
   return (
     <div >
-      HELLO WORLD FROM FIRST REACT APP FINALLYYYYYY OK!!!
+      <Assi cnam="REACT.JS"/>
+      <Assi tnam="SIR AMIR PINGER"/>
     </div>
   );
 }
