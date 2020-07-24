@@ -4,8 +4,7 @@ import Assi from './asign.js';
 function App() {
   return (
     <div >
-      <Assi cnam="REACT.JS"/>
-      <Assi tnam="SIR AMIR PINGER"/>
+      <Assi cnam="REACT.JS" tnam="SIR AMIR PINGER"/>
     </div>
   );
 }
