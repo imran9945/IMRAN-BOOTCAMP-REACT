@@ -38,4 +38,4 @@ jobs:
     - name: installing Surge
       run: npm install -g surge
     - name: deploying on surge
-      run: surge ./build http://imranfreactapp.surge.sh/ --token ${{ secrets.IMREACT_TOKEN }}
+      run: surge ./build http://overjoyed-snakes.surge.sh/ --token ${{ secrets.IMREACT_TOKEN }}
